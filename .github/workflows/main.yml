@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: <spanchbob22>/lab5-webapp:latest
+          tags: spanchbob22/lab5-webapp:latest
